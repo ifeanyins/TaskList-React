@@ -4,7 +4,7 @@
   padding: 2rem;
 }
 .header-text,
-.input,
+#input,
 .input-Text{
   margin-left: 20px;
 }
@@ -13,7 +13,7 @@
   font-size: large;
   font-weight: 700;
 }
-.input{
+#input{
   padding:7px 170px;
   margin-bottom: 20px;
   border: 1px solid green;
