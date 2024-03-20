@@ -3,7 +3,7 @@
 # About
 Todo-List with React
 
-add and delete a task also saved witrh local storage
+add and delete a task also, save with local storage
 
 ## Available Scripts
 
