@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# About
+Todo-List with React
+
+add and delete a task also saved witrh local storage
+
 ## Available Scripts
 
 In the project directory, you can run:
